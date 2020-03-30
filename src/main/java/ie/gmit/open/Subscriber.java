@@ -1,4 +1,11 @@
 package ie.gmit.open;
+/*
+Authors: Padraig O Cosgora, Paul Lennon
+Date: 30/03/2020
+Version: 2.0
+Description: This is an abstract class that extends it's methods to child classes.
+
+ */
 
 import java.util.List;
 

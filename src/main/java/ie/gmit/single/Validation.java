@@ -1,4 +1,11 @@
 package ie.gmit.single;
+/*
+Authors: Padraig O Cosgora, Paul Lennon
+Date: 30/03/2020
+Version: 2.0
+Description: This class enables the user to choose the validation method.
+
+ */
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

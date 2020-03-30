@@ -1,4 +1,11 @@
 package ie.gmit.open;
+/*
+Authors: Padraig O Cosgora, Paul Lennon
+Date: 30/03/2020
+Version: 2.0
+Description: This class inherits the Subscriber class and calculates a bill.
+
+ */
 
 import java.util.List;
 

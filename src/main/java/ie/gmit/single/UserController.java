@@ -1,4 +1,11 @@
 package ie.gmit.single;
+/*
+Authors: Padraig O Cosgora, Paul Lennon
+Date: 30/03/2020
+Version: 2.0
+Description: This class creates a user using the StorageService and Validation classes. .
+
+ */
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
